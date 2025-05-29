@@ -1,0 +1,3 @@
+/Users/kacpermarciszewski/Documents/Programy_studia/Lab12SO/cmake-build-debug/CMakeFiles/Lab12SO.dir
+/Users/kacpermarciszewski/Documents/Programy_studia/Lab12SO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kacpermarciszewski/Documents/Programy_studia/Lab12SO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
